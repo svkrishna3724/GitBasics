@@ -7,3 +7,18 @@ repository repository name must and should be  file name as same.
  - git remote add satya url (gitrepository url)=>
     create a remotes
 -touch {1..5}.txt=> create a 5 files in localfolder
+- ls -a => To display all the files in local folder
+- git add --all => To add the files in local repository
+    (or)
+git add -A => To add the files in local repository
+git add 1.txt To add the invidual files
+git add *.txt  To add the same format (.txt)files in local repository
+git add . To add the files in local repository
+git status => Check the status of the files
+git commit -m"Added my files" =>
+(or)
+git commit -am"Added my files"=>adding files in local repository
+
+git log =>how many files are saved or not
+
+git push krish master
