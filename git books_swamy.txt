@@ -1,0 +1,9 @@
+-create a new folder in desktop and open folder in folder 
+click on rightclick select on GitBash here
+-git init=>create a local repository
+-open crome   create an github account and  create a new 
+repository repository name must and should be  file name as same.
+ -git  remote=> will check the remotes are available or not
+ - git remote add satya url (gitrepository url)=>
+    create a remotes
+-touch {1..5}.txt=> create a 5 files in localfolder
